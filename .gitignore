@@ -1,3 +1,6 @@
 *.mat
 images/*
 C:\\Users*
+*.npy
+data/*
+*.egg-info

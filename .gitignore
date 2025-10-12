@@ -1,3 +1,11 @@
 *.mat
 images/*
+*.mat
+images/*
 C:\\Users*
+*.npy
+data/*
+*.egg-info
+*_dev*
+
+*__pycache__
